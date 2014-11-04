@@ -1,0 +1,7 @@
+HCEB_N1  - first version of program on 
+modeling the e-beam impact on metals;
+It has few bugs (~NAN) on input data form keyboard::
+   try carefully to input data like energy, iterations, density, etc.
+   run & debug it with opened Process Dispatch or smth like it
+   
+Need help :: any questions send to startsev-alex@ukr.net or startsev-olexandr@rambler.ru
